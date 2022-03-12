@@ -1,0 +1,20 @@
+body {
+    position: relative;
+    margin: 25px 400px;
+    height: 600px;
+    width: 70%;
+    background: linear-gradient(#355c7d, #6c5b7b, #c06c84);
+}
+
+#snake{
+    position: absolute;
+    
+}
+
+.score{
+    position: absolute;
+    font-weight: 600;
+    font-size: 40px;
+    top: -20px;
+    left: -200px;
+}
